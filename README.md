@@ -2,7 +2,7 @@
 
 Un éditeur de texte riche (WYSIWYG) moderne et léger en JavaScript vanilla.
 
-![RichTextForge Demo](image.png)
+![RichTextForge Demo](image.PNG)
 
 ## Installation
 
